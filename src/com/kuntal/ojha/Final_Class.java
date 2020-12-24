@@ -4,6 +4,7 @@ package com.kuntal.ojha;
 
 final class Final_Class {
     public static void main(String[] args) {
+
         System.out.println("Hello World !");
     }
 }
