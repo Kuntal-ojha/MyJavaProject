@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 // Demonstrate casts.
-public class C3_DT_V_And_Array10 {
+public class C3_DT_V_And_Array10_Conversions {
     public static void main(String[] args) {
         byte b;
         int i=257;
