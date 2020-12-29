@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 // Char variable behave like integer
-public class C3_DT_V_And_Array4_Char {
+public class C3_DT_V_And_Array6_Char {
     public static void main(String[] args) {
         char ch1;
         ch1='X';

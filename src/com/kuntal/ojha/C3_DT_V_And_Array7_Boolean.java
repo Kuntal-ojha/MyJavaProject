@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 // Demonstrate  boolean values.
-public class C3_DT_V_And_Array5_Boolean {
+public class C3_DT_V_And_Array7_Boolean {
     public static void main(String[] args) {
         boolean b;
         b=false;

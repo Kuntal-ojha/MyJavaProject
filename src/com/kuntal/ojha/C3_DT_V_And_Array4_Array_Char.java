@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 
-public class C3_DT_V_And_Array17_Array_Char {
+public class C3_DT_V_And_Array4_Array_Char {
     public static void main(String[] args) {
         char ch;
         int a=0;

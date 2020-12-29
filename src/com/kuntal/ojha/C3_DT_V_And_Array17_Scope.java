@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 // Demonstrate block scope
-public class C3_DT_V_And_Array7 {
+public class C3_DT_V_And_Array17_Scope {
     public static void main(String[] args) {
         int x; // Known to all code within main
         x=10;

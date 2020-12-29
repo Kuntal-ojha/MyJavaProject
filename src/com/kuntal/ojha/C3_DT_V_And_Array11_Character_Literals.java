@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 
-public class C3_DT_V_And_Array21_Array_Literals {
+public class C3_DT_V_And_Array11_Character_Literals {
     public static void main(String[] args) {
         System.out.print("\\Use of 377: ");
         System.out.println("\377");

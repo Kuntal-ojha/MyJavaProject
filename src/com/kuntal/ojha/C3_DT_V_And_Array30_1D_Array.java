@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 
-public class C3_DT_V_And_Array12_Array_1 {
+public class C3_DT_V_And_Array30_1D_Array{
     public static void main(String[] args) {
         int i,j;
         int month_days[]={31,28,31,30,31,30,31,31,30,31,30,31};

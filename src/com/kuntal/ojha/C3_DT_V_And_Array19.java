@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 // This program will not compile
-public class C3_DT_V_And_Array9 {
+public class C3_DT_V_And_Array19 {
     public static void main(String[] args) {
         int bar=1;
         {               // creates a new scope.

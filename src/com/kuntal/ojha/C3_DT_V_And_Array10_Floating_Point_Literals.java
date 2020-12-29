@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 
-public class C3_DT_V_And_Array20_Array_Literals {
+public class C3_DT_V_And_Array10_Floating_Point_Literals {
     public static void main(String[] args) {
         double num=9_423_497_862.0;
         double num1=9_423_497.1_0_0;

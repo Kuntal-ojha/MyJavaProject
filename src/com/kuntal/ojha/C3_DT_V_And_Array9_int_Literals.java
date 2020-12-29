@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 
-public class C3_DT_V_And_Array19_Array_Literals {
+public class C3_DT_V_And_Array9_int_Literals {
     public static void main(String[] args) {
         int x=0b1010;
         int x1=123_456_789;

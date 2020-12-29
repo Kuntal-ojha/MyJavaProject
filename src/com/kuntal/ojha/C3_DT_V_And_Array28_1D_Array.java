@@ -1,9 +1,11 @@
 package com.kuntal.ojha;
 // Demonstrate a one-dimensional array.
-public class C3_DT_V_And_Array12_Array {
+public class C3_DT_V_And_Array28_1D_Array{
     public static void main(String[] args) {
         int month_days[];
         month_days =new int[12];
+        // To use new to allocate an array, you must specify
+        // the type and number of elements to allocate.
         month_days[0]=31;
         month_days[1]=28;
         month_days[2]=31;

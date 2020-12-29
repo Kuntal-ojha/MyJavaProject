@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 // Demonstration dynamic initialization
-public class C3_DT_V_And_Array6 {
+public class C3_DT_V_And_Array13 {
     public static void main(String[] args) {
         double a=3.0,b=4.0;
         // c is dynamically initialized

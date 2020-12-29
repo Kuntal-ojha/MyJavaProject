@@ -1,6 +1,6 @@
 package com.kuntal.ojha;
 
-public class C3_DT_V_And_Array6_Square_Root {
+public class C3_DT_V_And_Array14_Square_Root {
     public static void main(String[] args) {
         double a=25.0,b;
         b=Math.sqrt(a);
