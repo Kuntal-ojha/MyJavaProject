@@ -1,4 +1,4 @@
-package com.kuntal.ojha;
+package kuntal.ojha;
 /*
 * Demonstrate the if
 * Call this file "C2_An_Overview_of_Java3".

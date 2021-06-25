@@ -1,4 +1,4 @@
-package com.kuntal.ojha;
+package kuntal.ojha;
 /*
 * Demonstrate the for loop
 * Call this file "C2_An_Overview_of_Java4"

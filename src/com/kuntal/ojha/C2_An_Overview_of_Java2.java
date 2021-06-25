@@ -1,4 +1,4 @@
-package com.kuntal.ojha;
+package kuntal.ojha;
 /*
 * Hear is a another short example
 * Call this file name "C2_An_Overview_of_Java2".
